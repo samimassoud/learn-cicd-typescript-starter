@@ -38,5 +38,5 @@ jobs:
         run: npm ci
       - name: Check for Formatting Issues
         run: npm run format:check
-      - name: Linting
-        run: npm run lint
+      - name: Check linting
+        run: npm run lint -- --max-warnings=0
