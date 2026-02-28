@@ -4,7 +4,7 @@ This repo contains the typescript starter code for the "Notely" application for 
 
 ## Tests Status
 
-![Workflow Status](https://github.com/samimassoud/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
+![Workflow Status](https://github.com/samimassoud/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg?branch=addtests)
 
 ## Local Development
 
